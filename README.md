@@ -1,12 +1,11 @@
 # PRÁCTICA JAVASCRIPT
 
 Ésta es mi resolución de la práctica propuesta en el módulo de Javascript desde cero del Bootcamp Keepcoding-Glovo.
+Para ejecutar el programa correr el siguiente comando:
+* ```node index.js```
 
-Inicializo el programa en index.js
-
-A continuación se especifican las bases:
-
-# Classroom management
+# Enunciado de la practica
+## Classroom management
 Necesitamos desarrollar una aplicación hecha con javascript que nos ayude a gestionar los alumnos de nuestra clase.
 
 Partiremos de un listado de alumnos inicial:
